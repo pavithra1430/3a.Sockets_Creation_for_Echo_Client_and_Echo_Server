@@ -1,4 +1,4 @@
-# PAVITRA S
+# PAVITHRA S
 # 212223220072
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
 # AIM
@@ -17,8 +17,9 @@ Sockets Links.
 ![image](https://github.com/pavithra1430/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/168256810/c1148b92-9a69-4061-8d68-c32c4eaf1129)
 ```
 ## OUPUT
-![image](https://github.com/pavithra1430/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/168256810/e9d032ea-252e-40a4-b6b9-518af195a4fa)
-![image](https://github.com/pavithra1430/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/168256810/a7937278-c143-4f26-aa47-496faafe875e)
+![image](https://github.com/pavithra1430/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/168256810/0d167533-0c42-4eb9-b0b0-01461fe072ed)
+![image](https://github.com/pavithra1430/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/168256810/fed81332-ae73-4c73-adb3-fce91c359ef5)
+
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
